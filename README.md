@@ -32,7 +32,8 @@ Built using **Streamlit**, trained with **scikit-learn**, and deployed via **Ren
 
 ## 🖼️ App Screenshot
 
-![App Screenshot](<img width="1366" height="768" alt="Screenshot 2025-07-17 220725" src="https://github.com/user-attachments/assets/f7b43bb3-905c-4350-859b-90273827216b" />)
+![App Screenshot](<img width="1366" height="768" alt="Screenshot 2025-07-17 220725" src="https://github.com/user-attachments/assets/779e32fe-899a-4de1-afd8-59cf82b06127" />)
+)
 
 
 ---

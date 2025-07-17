@@ -49,7 +49,7 @@ Built using **Streamlit**, trained with **scikit-learn**, and deployed via **Ren
 ## 🧪 Run Locally
 
 ```bash
-git clone https://github.com/Pushti-2006/your-renamed-repo.git
-cd your-renamed-repo
+git clone https://github.com/Multiple-Disease-Prediction-System.git
+cd Multiple-Disease-Prediction-System
 pip install -r requirements.txt
 streamlit run app.py
